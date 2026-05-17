@@ -288,7 +288,7 @@ const Experience = () => {
         </div>
       </div>
 
-      <div className="max-w-7xl mx-auto px-6 md:px-10 py-20">
+      <div className="max-w-7xl mx-auto px-6 md:px-24 py-20">
 
         {/* Section Header + Filters */}
         <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-6 mb-12">

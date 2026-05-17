@@ -145,7 +145,7 @@ const About = () => {
         </div>
       </div>
 
-      <div className="max-w-7xl mx-auto px-6 md:px-10 py-20 space-y-24">
+      <div className="max-w-7xl mx-auto px-6 md:px-24 py-20 space-y-24">
 
         {/* Story + Image */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
